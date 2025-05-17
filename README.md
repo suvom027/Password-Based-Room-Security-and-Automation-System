@@ -2,10 +2,6 @@
 
 ---
 
-## Introduction
-
-The Password Based Room Security and Automation System combines access control and home automation. It provides secure access to a room while also controlling electronic devices like light and AC through a password-protected logic system.
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Description of the Project](#description-of-the-project)
@@ -15,6 +11,10 @@ The Password Based Room Security and Automation System combines access control a
 - [Project Picture](#project-picture)
 - [Application Areas and Limitations ](#application-areas-and-limitations)
 - [Conclusion](#conclusion)
+
+## Introduction
+
+The Password Based Room Security and Automation System combines access control and home automation. It provides secure access to a room while also controlling electronic devices like light and AC through a password-protected logic system.
 
 ## Description of the Project
 
