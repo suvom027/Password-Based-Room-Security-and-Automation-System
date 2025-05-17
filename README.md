@@ -1,27 +1,20 @@
 # Password Based Room Security and Automation System
 
-Course: Digital Electronics (EEE 2105)  
-Instructor: Md. Zubair Alam  
-
-Submitted by:  
-Sazzad Hossen [021 221 026]  
-Suvom Karmakar [021 221 027]  
-Mahfuzar Rahman [021 221 049]
+---
 
 ## Introduction
 
 The Password Based Room Security and Automation System combines access control and home automation. It provides secure access to a room while also controlling electronic devices like light and AC through a password-protected logic system.
 
 ## Table of Contents
-
-- Introduction  
-- Description of the Project  
-- Components Required  
-- Circuit Design and Explanation  
-- Simulation Result  
-- Project Picture  
-- Application Areas and Limitations  
-- Conclusion  
+- [Introduction](#introduction)
+- [Description of the Project](#description-of-the-project)
+- [Components Required](#components-required)
+- [Circuit Design and Explanation](#circuit-design-and-explanation)
+- [Simulation Result](#simulation-result)
+- [Project Picture](#project-picture)
+- [Application Areas and Limitations ](#application-areas-and-limitations)
+- [Conclusion](#conclusion)
 
 ## Description of the Project
 
@@ -49,8 +42,7 @@ This project includes a keypad for password input, a door locking system, a buzz
 
 ## Circuit Design and Explanation
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/599b82ae-de40-44c5-988d-6e8cac76bce3
-" width="400">
+  <img src="https://github.com/user-attachments/assets/599b82ae-de40-44c5-988d-6e8cac76bce3" width="400">
 </p>
 
 Step 1: Input Equality Check  
@@ -79,8 +71,8 @@ Step 4: Conditional Control
   <table align="center">
     <tr>
       <td><img src="https://github.com/user-attachments/assets/34a73616-b844-4d0d-82d7-8c91efb97464" width="300"></td>
-      <td><img src="https://github.com/user-attachments/assets/SECOND_IMAGE_URL_HERE" width="300"></td>
-      <td><img src="https://github.com/user-attachments/assets/THIRD_IMAGE_URL_HERE" width="300"></td>
+      <td><img src="https://github.com/user-attachments/assets/6a9e3995-a3df-4928-8701-e41600bb2ea5" width="300"></td>
+      <td><img src="https://github.com/user-attachments/assets/c7103958-42b7-4838-b71e-2dd1cd2e459a" width="300"></td>
     </tr>
     <tr align="center">
       <td><b>Fig 1: Password Match</b></td>
