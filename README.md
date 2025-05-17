@@ -42,7 +42,7 @@ This project includes a keypad for password input, a door locking system, a buzz
 
 ## Circuit Design and Explanation
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/599b82ae-de40-44c5-988d-6e8cac76bce3" width="400">
+  <img src="https://github.com/user-attachments/assets/599b82ae-de40-44c5-988d-6e8cac76bce3" width="600">
 </p>
 
 Step 1: Input Equality Check  
