@@ -88,6 +88,7 @@ Step 4: Conditional Control
 <p align="center">
   <img src="https://github.com/user-attachments/assets/128d1eb9-fd85-4ad7-bdab-21b4ad072cac" width="400">
 </p>
+
 ## Application Areas and Limitations
 
 **Application Areas:**
